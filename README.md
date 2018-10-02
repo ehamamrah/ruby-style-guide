@@ -17,7 +17,7 @@ This is always going to be a work in progress and it is going to adapt to whatev
 6. [Routing](https://github.com/boundlessdrop/style-guide#routing)
 7. [I18n](https://github.com/boundlessdrop/style-guide#i18n)
 8. [Authorization](https://github.com/boundlessdrop/style-guide#authorization-with-cancancan)
-9. [Gemfile](https://github.com/boundlessdrop/style-guide#gemfile)
+9. [Gemfile](#gemfile)
 10. [TODO](https://github.com/boundlessdrop/style-guide#todo)
 
 Clarity, Readability & Convention:
