@@ -9,16 +9,16 @@ This is always going to be a work in progress and it is going to adapt to whatev
 
 ------------------
 
-1. [Clarity, Readability & Convention](https://github.com/boundlessdrop/style-guide#clarity-readability--convention)
-2. [Database Level](https://github.com/boundlessdrop/style-guide#database-level)
-3. [Models](https://github.com/boundlessdrop/style-guide#models)
-4. [Views](https://github.com/boundlessdrop/style-guide#views)
-5. [Controllers](https://github.com/boundlessdrop/style-guide#controllers)
-6. [Routing](https://github.com/boundlessdrop/style-guide#routing)
-7. [I18n](https://github.com/boundlessdrop/style-guide#i18n)
-8. [Authorization](https://github.com/boundlessdrop/style-guide#authorization-with-cancancan)
+1. [Clarity, Readability & Convention](#clarity-readability--convention)
+2. [Database Level](#database-level)
+3. [Models](#models)
+4. [Views](#views)
+5. [Controllers](#controllers)
+6. [Routing](#routing)
+7. [I18n](#i18n)
+8. [Authorization](#authorization-with-cancancan)
 9. [Gemfile](#gemfile)
-10. [TODO](https://github.com/boundlessdrop/style-guide#todo)
+10. [TODO](#todo)
 
 Clarity, Readability & Convention:
 ----------------------------------
